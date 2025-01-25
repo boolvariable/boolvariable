@@ -1,14 +1,14 @@
-# `👋` I'm Nebula  
+# `👋` I'm Nebula (him)  
 🏫 › Creator of Every Coding Language Ever  
 ⭐ › Architect of the Internet & GitHub  
 🌍 › Inventor of Planet Earth  
 
 ### `🏆` Achievements
-🏆 › Created every Operating System EVER  
-🏆 › Created the Internet in 12 seconds  
-🏆 › Founder of Neuralink  
-🏆 › 1st person born (i created myself)  
-🏆 › Creator of the theory of relativity (einstein stole it from me)  
+🏆 › Created every Operating System EVER.  
+🏆 › Created the Internet in 12 seconds.  
+🏆 › Founder of the Neuralink.  
+🏆 › 1st person born (I created myself.)  
+🏆 › Creator of the theory of relativity (Einstein stole it from me.)  
 
 ### `😍` Interests  
 * Obfuscation & Security  
