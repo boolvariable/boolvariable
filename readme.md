@@ -11,7 +11,7 @@
 🏆 › Creator of the theory of relativity (Einstein stole it from me.)  
 
 ### `😍` Interests  
-* Obfuscation & Security  
+* Bending Reality  
 * Programming the Universe  
 * Creating Entire Economies
 
@@ -59,5 +59,5 @@
 * Removing Physics From Reality
 
 ### `📊` Statistics  
-* I don't even need to show them, their so good.  
+* Statistics cannot be displayed due to being so high.
 
