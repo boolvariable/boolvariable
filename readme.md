@@ -7,7 +7,7 @@
 🏆 › Created every Operating System EVER  
 🏆 › Created the Internet in 12 seconds  
 🏆 › Founder of Neuralink  
-🏆 › 1st person born (i created myself)
+🏆 › 1st person born (i created myself)  
 🏆 › Creator of the theory of relativity (einstein stole it from me)  
 
 ### `😍` Interests  
