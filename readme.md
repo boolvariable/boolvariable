@@ -7,7 +7,7 @@
 🏆 › Created every Operating System EVER  
 🏆 › Created the Internet in 12 seconds  
 🏆 › Founder of Neuralink  
-🏆 › 1st person to reprogram all of reality  
+🏆 › 1st person born (i created myself)
 🏆 › Creator of the theory of relativity (einstein stole it from me)  
 
 ### `😍` Interests  
@@ -21,7 +21,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  
 ![Quantum IDE](https://img.shields.io/badge/Quantum%20IDE-Purple.svg?style=for-the-badge&logo=awesome&logoColor=gold)  
 
-### `📋` Known Languages *(I invented them all)*  
+### `📋` Known Languages *(I know every one ever, I invented them all, these are just a few.)*  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -40,6 +40,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
 ![Universe.js](https://img.shields.io/badge/Universe.js-Cosmic.svg?style=for-the-badge&logo=awesome&logoColor=gold)  
+![Galaxium](https://img.shields.io/badge/Universe.js-Cosmic.svg?style=for-the-badge&logo=awesome&logoColor=gold)  
 
 ### `👨‍🎓` Learning Right Now  
 * Reverse Engineering Reality  
