@@ -22,7 +22,7 @@
 ![Quantum IDE](https://img.shields.io/badge/Quantum%20IDE-Purple.svg?style=for-the-badge&logo=awesome&logoColor=gold)  
 ![Multiversal IDE](https://img.shields.io/badge/Multiversal%20iDE-000000?style=for-the-badge&logo=delphi&logoColor=purple)
 
-### `⊞` Operating Systems I Made *(I created ALL known operating systems in less than 2 minutes.)*  
+### `⊞` Operating Systems I Made *(I created ALL known operating systems in 5 seconds when I was 7.)*  
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)  
