@@ -1,7 +1,14 @@
 # `👋` I'm Nebula  
 🏫 › Creator of Every Coding Language Ever  
 ⭐ › Architect of the Internet & GitHub  
-🌍 › Inventor of Planet Earth (Unofficial)  
+🌍 › Inventor of Planet Earth  
+
+### `🏆` Achievements
+🏆 › Created every Operating System EVER  
+🏆 › Created the Internet in 12 seconds  
+🏆 › Founder of Neuralink  
+🏆 › 1st person to reprogram all of reality  
+🏆 › Creator of the theory of relativity (einstein stole it from me)  
 
 ### `😍` Interests  
 * Obfuscation & Security  
@@ -38,5 +45,5 @@
 * Reverse Engineering Reality  
 
 ### `📊` Statistics  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baxoplenty&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+* I don't even need to show them, their so good.  
 
