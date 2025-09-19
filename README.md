@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Nebula  
 
-<!--
-**boolvariable/boolvariable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+- 💜 Purple is my favorite color!  
+- 💔 I am NEVER on this site.  
+- 🪟 I hate linux with a passion.  
+- ✋ All my repositories are unlicensed, do whatever you'd like with them!  
+
+---
+
+## GitHub Stats  
+![Nebula's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaQuantity&show_icons=true&theme=midnight-purple)  
+
+---
+
+## Contact  
+- 📱 Discord: *@boolvariable*  
+
+---
