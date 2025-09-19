@@ -13,7 +13,7 @@ Welcome to my profile!
 ---
 
 ## GitHub Stats  
-![Nebula's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaQuantity&show_icons=true&theme=midnight-purple)  
+![Nebula's GitHub stats](https://github-readme-stats.vercel.app/api?username=boolvariable&show_icons=true&theme=midnight-purple)  
 
 ---
 
